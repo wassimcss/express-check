@@ -1,0 +1,18 @@
+{
+  "name": "check-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "wassim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

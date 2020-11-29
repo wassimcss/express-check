@@ -1,0 +1,25 @@
+h1
+{
+    color : red;
+}
+ul 
+{
+    display : flex;
+    list-style-type: none;
+    justify-content: space-around;
+    text-decoration: none;
+    background-color: #DDD;
+    margin-top:0px ;
+    font-size: 24px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
+body
+{
+    margin : 0;
+}
